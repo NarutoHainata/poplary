@@ -83,7 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-alias bandwagon="ssh root@45.78.53.240 -p 29740"
 export PATH="./node_modules/.bin:$PATH"
 
 export PATH="./bin:$PATH"
